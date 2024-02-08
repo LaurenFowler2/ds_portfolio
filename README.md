@@ -20,10 +20,10 @@
 
 <h2>More Information</h2>
 
+- [Statement of Purpose]
 - [Bio]
 - [Resume]
 - [CV]
-- [Statement of Purpose]
 
 <h2> 🤳 Connect with me:</h2>
 
