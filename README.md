@@ -7,21 +7,18 @@
   - [Purpose]
   - [Methodology](https://github.com/LaurenFowler2/ERGMs_Project/tree/main)
   - [Conclusion/Evaluation]
-  - [Visualization]
   - [Impact]
 - <b>Project 2 - RACs Survey </b>
   - [Overview](https://github.com/LaurenFowler2/ERGM_Vis)
   - [Purpose]
   - [Methodology](https://github.com/LaurenFowler2/ERGMs_Project/tree/main)
   - [Conclusion/Evaluation]
-  - [Visualization]
   - [Impact]
 - <b>Project 3 - COVID-19 Data Analysis</b>
   - [Overview](https://github.com/LaurenFowler2/ERGM_Vis)
   - [Purpose]
   - [Methodology](https://github.com/LaurenFowler2/ERGMs_Project/tree/main)
   - [Conclusion/Evaluation]
-  - [Visualization]
   - [Impact]
 
 <h2>More Information</h2>
