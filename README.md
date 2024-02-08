@@ -2,7 +2,7 @@
 
 <h2>Data Science Portfolio:</h2>
 
--- <b>Project 1 - RACs Survey </b>
+- <b>Project 1 - RACs Survey </b>
   - [Overview](https://github.com/LaurenFowler2/ERGM_Vis)
   - [Purpose]
   - [Methodology](https://github.com/LaurenFowler2/ERGMs_Project/tree/main)
