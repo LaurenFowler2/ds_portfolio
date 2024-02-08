@@ -3,20 +3,26 @@
 <h2>Data Science Portfolio:</h2>
 
 - <b>Project 1 -  Analysis of Social Networks </b>
-  - [Code](https://github.com/LaurenFowler2/ERGMs_Project/tree/main)
-  - [Visualization](https://github.com/LaurenFowler2/ERGM_Vis)
+  - [Overview](https://github.com/LaurenFowler2/ERGM_Vis)
+  - [Purpose]
+  - [Methodology](https://github.com/LaurenFowler2/ERGMs_Project/tree/main)
+  - [Conclusion/Evaluation]
+  - [Visualization]
   - [Impact]
-  - [Reflection]
 - <b>Project 2 - RACs Survey </b>
-  - [Code]
+  - [Overview](https://github.com/LaurenFowler2/ERGM_Vis)
+  - [Purpose]
+  - [Methodology](https://github.com/LaurenFowler2/ERGMs_Project/tree/main)
+  - [Conclusion/Evaluation]
   - [Visualization]
   - [Impact]
-  - [Reflection]
 - <b>Project 3 - COVID-19 Data Analysis</b>
-  - [Code]
+  - [Overview](https://github.com/LaurenFowler2/ERGM_Vis)
+  - [Purpose]
+  - [Methodology](https://github.com/LaurenFowler2/ERGMs_Project/tree/main)
+  - [Conclusion/Evaluation]
   - [Visualization]
   - [Impact]
-  - [Reflection]
 
 <h2>More Information</h2>
 
