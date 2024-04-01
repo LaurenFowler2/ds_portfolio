@@ -14,7 +14,7 @@
   - [Methodology](https://github.com/LaurenFowler2/ERGMs_Project/tree/main)
   - [Conclusion/Evaluation]
   - [Impact]
-- <b>Project 3 - COVID-19 Data Analysis</b>
+- <b>Project 3 - CBSC Trends Over Time</b>
   - [Overview](https://github.com/LaurenFowler2/ERGM_Vis)
   - [Purpose]
   - [Methodology](https://github.com/LaurenFowler2/ERGMs_Project/tree/main)
