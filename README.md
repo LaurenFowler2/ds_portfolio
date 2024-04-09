@@ -19,7 +19,7 @@
   - [Conclusion/Evaluation]
   - [Impact]
 - <b>Project 3 - CBSC Trends Over Time</b>
-  - [Overview]
+  - [Overview](https://github.com/LaurenFowler2/ds_portfolio/blob/main/cbsc_readme)
   - [Assignment] - Still in Progress
   - [Purpose]
   - [Methodology]
