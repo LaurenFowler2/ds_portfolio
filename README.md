@@ -3,21 +3,27 @@
 <h2>Data Science Portfolio:</h2>
 
 - <b>Project 1 - RACs Survey </b>
-  - [Overview](https://github.com/LaurenFowler2/ERGM_Vis)
+  - [Overview](https://github.com/LaurenFowler2/ds_portfolio/blob/main/RACS_readme)
+  - [Assignment] - Still in Progress
   - [Purpose]
-  - [Methodology](https://github.com/LaurenFowler2/ERGMs_Project/tree/main)
+  - [Methodology]
+  - [Reason of Intent](https://github.com/LaurenFowler2/ds_portfolio/blob/main/Project%201%20RACs%20Survey/ROI%20-%20RACs.docx))
   - [Conclusion/Evaluation]
   - [Impact]
 - <b>Project 2 -  Analysis of Social Networks </b>
-  - [Overview](https://github.com/LaurenFowler2/ERGM_Vis)
-  - [Purpose]
+  - [Overview](https://github.com/LaurenFowler2/ds_portfolio/blob/main/sna_readme)
+  - [Assignment File](https://github.com/LaurenFowler2/ds_portfolio/blob/main/Project%202%20Social%20Network%20Analysis/ERGMMMMSSS-1.pdf)
+  - [Purpose](https://github.com/LaurenFowler2/ds_portfolio/blob/main/Project%202%20Social%20Network%20Analysis/Analysis%20of%20Social%20Networks%20Project%20Breakdown.docx)
   - [Methodology](https://github.com/LaurenFowler2/ERGMs_Project/tree/main)
+  - [Reason of Intent](https://github.com/LaurenFowler2/ds_portfolio/blob/main/Project%202%20Social%20Network%20Analysis/ROI%20-%20ERGM.docx)
   - [Conclusion/Evaluation]
   - [Impact]
 - <b>Project 3 - CBSC Trends Over Time</b>
-  - [Overview](https://github.com/LaurenFowler2/ERGM_Vis)
+  - [Overview](https://github.com/LaurenFowler2/ds_portfolio/blob/main/cbsc_readme)
+  - [Assignment] - Still in Progress
   - [Purpose]
-  - [Methodology](https://github.com/LaurenFowler2/ERGMs_Project/tree/main)
+  - [Methodology]
+  - [Reason of Intent](https://github.com/LaurenFowler2/ds_portfolio/blob/main/Project%203%20CBSC%20Project/ROI%20-%20CBSC.docx)
   - [Conclusion/Evaluation]
   - [Impact]
 
