@@ -3,7 +3,7 @@
 <h2>Data Science Portfolio:</h2>
 
 - <b>Project 1 - RACs Survey </b>
-  - [Overview]
+  - [Overview](https://github.com/LaurenFowler2/ds_portfolio/blob/main/RACS_readme)
   - [Assignment] - Still in Progress
   - [Purpose]
   - [Methodology]
