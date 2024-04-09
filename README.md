@@ -13,7 +13,7 @@
 - <b>Project 2 -  Analysis of Social Networks </b>
   - [Overview](https://github.com/LaurenFowler2/ds_portfolio/blob/main/sna_readme)
   - [Assignment File](https://github.com/LaurenFowler2/ds_portfolio/blob/main/Project%202%20Social%20Network%20Analysis/ERGMMMMSSS-1.pdf)
-  - [Purpose](https://github.com/LaurenFowler2/ds_portfolio/blob/main/Project%202%20Social%20Network%20Analysis/Analysis%20of%20Social%20Networks%20Purpose.pdf)
+  - [Purpose](https://github.com/LaurenFowler2/ds_portfolio/blob/main/Project%202%20Social%20Network%20Analysis/asn%20purpose.pdf)
   - [Methodology](https://github.com/LaurenFowler2/ds_portfolio/blob/main/Project%202%20Social%20Network%20Analysis/asn%20method.pdf)
   - [Reason of Intent](https://github.com/LaurenFowler2/ds_portfolio/blob/main/Project%202%20Social%20Network%20Analysis/ROI%20-%20ERGM.pdf)
   - [Conclusion/Evaluation]
