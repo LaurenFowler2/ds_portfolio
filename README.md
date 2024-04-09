@@ -4,6 +4,7 @@
 
 - <b>Project 1 - RACs Survey </b>
   - [Overview]
+  - [Assignment] - Still in Progress
   - [Purpose]
   - [Methodology]
   - [Reason of Intent](https://github.com/LaurenFowler2/ds_portfolio/blob/main/Project%201%20RACs%20Survey/ROI%20-%20RACs.docx))
@@ -19,6 +20,7 @@
   - [Impact]
 - <b>Project 3 - CBSC Trends Over Time</b>
   - [Overview]
+  - [Assignment] - Still in Progress
   - [Purpose]
   - [Methodology]
   - [Reason of Intent](https://github.com/LaurenFowler2/ds_portfolio/blob/main/Project%203%20CBSC%20Project/ROI%20-%20CBSC.docx)
