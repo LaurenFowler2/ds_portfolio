@@ -2,7 +2,7 @@
 
 <h2>Data Science Portfolio:</h2>
 
-- <b>Project 1 - RACs Survey </b>
+- <b>Project 1 - RACS Survey </b>
   - [Overview](https://github.com/LaurenFowler2/ds_portfolio/blob/main/RACS_readme)
   - [Assignment] - Still in Progress
   - [Purpose](https://github.com/LaurenFowler2/ds_portfolio/blob/main/Project%201%20RACs%20Survey/RACS%20survey%20purpose%20.pdf)
